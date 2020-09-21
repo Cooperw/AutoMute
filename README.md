@@ -10,4 +10,4 @@ To use in your server (assuming that you added my bot to you server or added you
 
 
 
-![Preview.png](preview.png)
+<img src="https://github.com/Cooperw/AutoMute/blob/master/preview.png?raw=true" width="50%">
