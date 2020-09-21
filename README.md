@@ -7,3 +7,7 @@ To use in your server (assuming that you added my bot to you server or added you
 * Using the !refresh (!r) command will create new controls for each of your voice channels, you can delete the message containing controls for voice channels you don't wish to manage for a cleaner look.
 * To control the mute/deafen of a voice channel simply push the respective reaction.
 * Optionally, you can add a "Cone of Silence" role that the bot will assign to users if it mutes them and remove it from users that it frees.
+
+
+
+![Preview.png](preview.png)
